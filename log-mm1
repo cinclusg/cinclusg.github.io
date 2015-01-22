@@ -1,0 +1,19 @@
+    1  ls
+    2  cd Documents/
+    3  ls
+    4  cd Webdesign/
+    5  ls
+    6  cd MDN
+    7  cd Learn
+    8  ls
+    9  git init
+   10  git remote add origin https://github.com/cinclusg/cinclusg.github.io.git
+   11  git push -u origin master
+   12  git remote add origin https://github.com/cinclusg/cinclusg.github.io.git
+   13  git push -u origin master
+   14  git add --all
+   15  git commit -m 'adding files to repository'
+   16  git config --global user.email "mcgovern.ie@gmail.com"
+   17  git config --global user.name "cinclusg"
+   18  git commit -m 'adding files to repository'
+   19  history > log-mm1
